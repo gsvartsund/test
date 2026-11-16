@@ -1,0 +1,26 @@
+{
+  "budget": {
+    "max_budget": 35,
+    "preferred_time": "afternoon",
+    "max_transfers": 2,
+    "need_changeable": false,
+    "min_luggage": 0,
+    "weights": {"price": 70, "duration": 10, "departure_time": 5, "flexibility": 5, "transfers": 10}
+  },
+  "business": {
+    "max_budget": 100,
+    "preferred_time": "morning",
+    "max_transfers": 0,
+    "need_changeable": false,
+    "min_luggage": 0,
+    "weights": {"price": 10, "duration": 35, "departure_time": 25, "flexibility": 20, "transfers": 10}
+  },
+  "student": {
+    "max_budget": 50,
+    "preferred_time": "night",
+    "max_transfers": 1,
+    "need_changeable": true,
+    "min_luggage": 20,
+    "weights": {"price": 25, "duration": 10, "departure_time": 10, "flexibility": 45, "transfers": 10}
+  }
+}

@@ -1,0 +1,530 @@
+offer_id,company,destination,date,departure,arrival_date,arrival,price,transfers,luggage_kg,changeable,refundable,seats,rating
+Offer1,SolRuta,Barcelona,16.11.2026,14:00,16.11.2026,18:25,57.71,1,15,no,no,26,3.8
+Offer2,SolRuta,Barcelona,17.11.2026,10:00,17.11.2026,13:50,55.37,0,15,no,no,23,3.9
+Offer3,SolRuta,Barcelona,18.11.2026,10:00,18.11.2026,14:44,60.39,1,15,no,no,26,3.4
+Offer4,SolRuta,Barcelona,19.11.2026,14:30,19.11.2026,19:06,62.39,1,15,yes,no,7,3.7
+Offer5,SolRuta,Barcelona,20.11.2026,10:30,20.11.2026,14:17,56.41,0,15,no,no,9,3.9
+Offer6,SolRuta,Barcelona,21.11.2026,14:30,21.11.2026,18:27,62.11,0,15,no,no,20,3.5
+Offer7,SolRuta,Barcelona,22.11.2026,14:30,22.11.2026,19:53,64.29,2,15,yes,no,9,3.1
+Offer8,SolRuta,Valencia,16.11.2026,14:00,16.11.2026,18:07,45.36,2,15,no,no,11,3.6
+Offer9,SolRuta,Valencia,17.11.2026,14:00,17.11.2026,16:38,49.56,0,15,no,no,6,3.9
+Offer10,SolRuta,Valencia,18.11.2026,10:30,18.11.2026,13:58,45.27,1,15,no,no,27,3.5
+Offer11,SolRuta,Valencia,19.11.2026,08:30,19.11.2026,12:10,56.78,1,15,no,no,5,3.2
+Offer12,SolRuta,Valencia,20.11.2026,10:30,20.11.2026,13:50,51.05,1,15,no,no,28,3.1
+Offer13,SolRuta,Valencia,21.11.2026,10:00,21.11.2026,12:47,51.59,0,15,no,no,27,3.4
+Offer14,SolRuta,Valencia,22.11.2026,10:00,22.11.2026,14:13,50.69,2,15,no,no,2,3.6
+Offer15,SolRuta,Seville,16.11.2026,08:30,16.11.2026,13:42,48.92,2,15,no,no,11,3.5
+Offer16,SolRuta,Seville,17.11.2026,14:30,17.11.2026,19:02,53.69,1,15,no,no,13,3.9
+Offer17,SolRuta,Seville,18.11.2026,08:00,18.11.2026,12:16,52.25,1,15,no,no,19,3.2
+Offer18,SolRuta,Seville,19.11.2026,10:30,19.11.2026,14:13,58.88,0,15,no,no,10,3.8
+Offer19,SolRuta,Seville,20.11.2026,14:30,20.11.2026,19:40,56.93,2,15,no,no,4,3.8
+Offer20,SolRuta,Seville,21.11.2026,14:00,21.11.2026,18:21,56.82,1,15,no,no,26,3.6
+Offer21,SolRuta,Seville,22.11.2026,14:30,22.11.2026,18:09,53.59,0,15,no,no,22,3.8
+Offer22,SolRuta,Malaga,16.11.2026,10:00,16.11.2026,13:17,56.5,0,15,no,no,26,3.9
+Offer23,SolRuta,Malaga,17.11.2026,10:00,17.11.2026,14:41,53.93,2,15,no,no,6,3.8
+Offer24,SolRuta,Malaga,18.11.2026,10:00,18.11.2026,13:13,48.12,0,15,no,no,9,3.2
+Offer25,SolRuta,Malaga,19.11.2026,10:30,19.11.2026,14:32,48.13,1,15,no,no,3,3.6
+Offer26,SolRuta,Malaga,20.11.2026,14:00,20.11.2026,17:13,58.12,0,15,no,no,20,3.8
+Offer27,SolRuta,Malaga,21.11.2026,08:00,21.11.2026,11:46,50.22,1,15,no,no,13,3.4
+Offer28,SolRuta,Malaga,22.11.2026,08:30,22.11.2026,12:31,52.49,1,15,no,no,12,3.8
+Offer29,SolRuta,Granada,16.11.2026,10:30,16.11.2026,14:20,53.9,1,15,no,no,18,3.8
+Offer30,SolRuta,Granada,17.11.2026,10:00,17.11.2026,14:31,52.46,2,15,no,no,25,3.4
+Offer31,SolRuta,Granada,18.11.2026,08:30,18.11.2026,13:09,53.09,2,15,no,no,0,3.8
+Offer32,SolRuta,Granada,19.11.2026,14:30,19.11.2026,19:02,49.82,2,15,no,no,5,3.3
+Offer33,SolRuta,Granada,20.11.2026,08:00,20.11.2026,11:36,50.43,1,15,yes,no,30,3.7
+Offer34,SolRuta,Granada,21.11.2026,10:00,21.11.2026,14:34,54.03,2,15,no,no,18,3.7
+Offer35,SolRuta,Granada,22.11.2026,08:30,22.11.2026,11:38,44.03,0,15,no,no,18,3.8
+Offer36,SolRuta,Cordoba,16.11.2026,10:00,16.11.2026,14:01,40.08,2,15,no,no,29,3.4
+Offer37,SolRuta,Cordoba,17.11.2026,10:30,17.11.2026,14:35,41.15,2,15,no,no,11,3.7
+Offer38,SolRuta,Cordoba,18.11.2026,08:00,18.11.2026,12:16,50.23,2,15,no,no,14,3.2
+Offer39,SolRuta,Cordoba,19.11.2026,14:30,19.11.2026,17:15,53.65,0,15,yes,no,19,3.7
+Offer40,SolRuta,Cordoba,20.11.2026,08:30,20.11.2026,11:55,52.21,1,15,no,no,12,3.5
+Offer41,SolRuta,Cordoba,21.11.2026,08:00,21.11.2026,11:16,51.91,1,15,no,no,20,3.2
+Offer42,SolRuta,Cordoba,22.11.2026,08:30,22.11.2026,11:46,47.59,1,15,no,no,30,3.2
+Offer43,SolRuta,Bilbao,16.11.2026,08:00,16.11.2026,12:56,68.14,2,15,yes,no,27,3.3
+Offer44,SolRuta,Bilbao,17.11.2026,08:30,17.11.2026,13:17,54.19,2,15,no,no,5,3.3
+Offer45,SolRuta,Bilbao,18.11.2026,08:30,18.11.2026,12:40,62.83,1,15,no,no,28,3.2
+Offer46,SolRuta,Bilbao,19.11.2026,08:30,19.11.2026,11:57,64.3,0,15,no,no,26,3.4
+Offer47,SolRuta,Bilbao,20.11.2026,08:00,20.11.2026,11:35,53.64,0,15,no,no,20,3.3
+Offer48,SolRuta,Bilbao,21.11.2026,08:30,21.11.2026,13:34,52.56,2,15,no,no,21,3.3
+Offer49,SolRuta,Bilbao,22.11.2026,08:30,22.11.2026,13:31,58.92,2,15,no,no,18,3.5
+Offer50,SolRuta,San Sebastian,16.11.2026,10:00,16.11.2026,13:56,57.6,1,15,no,no,0,3.5
+Offer51,SolRuta,San Sebastian,17.11.2026,08:30,17.11.2026,11:45,66.96,0,15,yes,no,1,3.2
+Offer52,SolRuta,San Sebastian,18.11.2026,10:30,18.11.2026,15:10,48.0,2,15,no,no,30,3.2
+Offer53,SolRuta,San Sebastian,19.11.2026,08:00,19.11.2026,11:22,56.99,0,15,no,no,17,3.4
+Offer54,SolRuta,San Sebastian,20.11.2026,08:00,20.11.2026,11:10,55.68,0,15,yes,no,0,3.4
+Offer55,SolRuta,San Sebastian,21.11.2026,14:30,21.11.2026,19:24,54.41,2,15,no,no,5,3.1
+Offer56,SolRuta,San Sebastian,22.11.2026,08:30,22.11.2026,13:15,50.65,2,15,no,no,14,3.4
+Offer57,SolRuta,Zaragoza,16.11.2026,10:30,16.11.2026,14:25,44.95,2,15,yes,no,8,3.1
+Offer58,SolRuta,Zaragoza,17.11.2026,08:30,17.11.2026,11:07,39.32,0,15,no,no,25,3.7
+Offer59,SolRuta,Zaragoza,18.11.2026,10:00,18.11.2026,14:06,43.19,2,15,no,no,22,3.5
+Offer60,SolRuta,Zaragoza,19.11.2026,08:00,19.11.2026,11:50,46.5,2,15,yes,no,22,3.3
+Offer61,SolRuta,Zaragoza,20.11.2026,10:00,20.11.2026,12:23,43.82,0,15,no,no,14,3.5
+Offer62,SolRuta,Zaragoza,21.11.2026,08:00,21.11.2026,10:24,43.49,0,15,no,no,26,3.8
+Offer63,SolRuta,Zaragoza,22.11.2026,08:30,22.11.2026,12:24,38.34,2,15,no,no,5,3.6
+Offer64,SolRuta,Alicante,16.11.2026,10:30,16.11.2026,13:26,53.71,0,15,no,no,30,3.6
+Offer65,SolRuta,Alicante,17.11.2026,14:30,17.11.2026,17:25,54.96,0,15,no,no,1,3.4
+Offer66,SolRuta,Alicante,18.11.2026,10:00,18.11.2026,14:31,51.77,2,15,no,no,24,3.4
+Offer67,SolRuta,Alicante,19.11.2026,08:00,19.11.2026,10:56,64.5,0,15,yes,yes,26,3.6
+Offer68,SolRuta,Alicante,20.11.2026,14:00,20.11.2026,16:59,56.39,0,15,yes,no,4,3.2
+Offer69,SolRuta,Alicante,21.11.2026,14:30,21.11.2026,18:51,54.11,2,15,no,no,23,3.7
+Offer70,SolRuta,Alicante,22.11.2026,08:30,22.11.2026,11:34,51.29,0,15,no,no,21,3.8
+Offer71,SolRuta,Murcia,16.11.2026,10:00,16.11.2026,12:29,52.03,0,15,no,no,4,3.6
+Offer72,SolRuta,Murcia,17.11.2026,08:30,17.11.2026,11:40,52.63,1,15,yes,no,11,3.6
+Offer73,SolRuta,Murcia,18.11.2026,10:00,18.11.2026,12:43,44.0,0,15,no,no,13,3.1
+Offer74,SolRuta,Murcia,19.11.2026,10:30,19.11.2026,13:04,47.27,0,15,no,no,28,3.7
+Offer75,SolRuta,Murcia,20.11.2026,14:00,20.11.2026,17:24,42.8,1,15,no,no,28,3.8
+Offer76,SolRuta,Murcia,21.11.2026,10:30,21.11.2026,12:57,57.57,0,15,yes,no,30,3.5
+Offer77,SolRuta,Murcia,22.11.2026,08:30,22.11.2026,12:27,46.19,2,15,no,no,13,3.2
+Offer78,SolRuta,Salamanca,16.11.2026,10:00,16.11.2026,12:59,46.77,1,15,no,no,22,3.6
+Offer79,SolRuta,Salamanca,17.11.2026,10:30,17.11.2026,13:19,40.37,1,15,no,no,15,3.3
+Offer80,SolRuta,Salamanca,18.11.2026,14:30,18.11.2026,17:32,45.73,1,15,no,no,0,3.6
+Offer81,SolRuta,Salamanca,19.11.2026,14:30,19.11.2026,18:14,38.65,2,15,no,no,11,3.3
+Offer82,SolRuta,Salamanca,20.11.2026,14:00,20.11.2026,17:30,41.44,2,15,no,no,27,3.7
+Offer83,SolRuta,Salamanca,21.11.2026,08:00,21.11.2026,10:09,37.03,0,15,no,no,5,3.3
+Offer84,SolRuta,Salamanca,22.11.2026,10:30,22.11.2026,12:31,35.3,0,15,no,no,14,3.6
+Offer85,SolRuta,Toledo,16.11.2026,10:00,16.11.2026,12:31,35.2,1,15,no,no,1,3.2
+Offer86,SolRuta,Toledo,17.11.2026,08:00,17.11.2026,09:50,40.79,0,15,no,no,10,3.3
+Offer87,SolRuta,Toledo,18.11.2026,14:30,18.11.2026,17:44,37.04,2,15,no,no,21,3.2
+Offer88,SolRuta,Toledo,19.11.2026,14:30,19.11.2026,17:05,36.26,1,15,no,no,6,3.2
+Offer89,SolRuta,Toledo,20.11.2026,14:30,20.11.2026,17:08,43.04,1,15,yes,no,24,3.7
+Offer90,SolRuta,Toledo,21.11.2026,14:00,21.11.2026,15:46,36.65,0,15,no,no,25,3.4
+Offer91,SolRuta,Toledo,22.11.2026,08:00,22.11.2026,10:21,38.34,1,15,no,no,15,3.8
+Offer92,SolRuta,Santiago de Compostela,16.11.2026,08:00,16.11.2026,12:05,55.15,0,15,no,no,22,3.4
+Offer93,SolRuta,Santiago de Compostela,17.11.2026,14:00,17.11.2026,19:37,59.77,2,15,no,no,23,3.3
+Offer94,SolRuta,Santiago de Compostela,18.11.2026,14:30,18.11.2026,19:19,65.33,1,15,no,no,25,3.7
+Offer95,SolRuta,Santiago de Compostela,19.11.2026,14:00,19.11.2026,19:35,55.49,2,15,no,no,20,3.7
+Offer96,SolRuta,Santiago de Compostela,20.11.2026,14:00,20.11.2026,19:37,65.94,2,15,no,no,28,3.7
+Offer97,SolRuta,Santiago de Compostela,21.11.2026,14:30,21.11.2026,19:33,68.56,1,15,no,no,25,3.6
+Offer98,SolRuta,Santiago de Compostela,22.11.2026,10:00,22.11.2026,15:01,54.06,1,15,no,no,23,3.6
+Offer99,SolRuta,Cadiz,16.11.2026,08:00,16.11.2026,11:27,70.05,0,15,yes,yes,24,3.7
+Offer100,SolRuta,Cadiz,17.11.2026,10:30,17.11.2026,14:08,62.21,0,15,no,no,26,3.8
+Offer101,SolRuta,Cadiz,18.11.2026,08:00,18.11.2026,11:34,62.36,0,15,no,no,30,3.8
+Offer102,SolRuta,Cadiz,19.11.2026,14:00,19.11.2026,17:33,55.44,0,15,no,no,5,3.5
+Offer103,SolRuta,Cadiz,20.11.2026,08:30,20.11.2026,13:24,62.22,2,15,no,no,14,3.8
+Offer104,SolRuta,Cadiz,21.11.2026,14:00,21.11.2026,18:51,58.78,2,15,no,no,13,3.8
+Offer105,SolRuta,Cadiz,22.11.2026,14:30,22.11.2026,19:31,56.3,2,15,no,no,23,3.2
+Offer106,Camino Express,Barcelona,16.11.2026,09:30,16.11.2026,12:14,81.09,0,25,no,no,17,4.5
+Offer107,Camino Express,Barcelona,17.11.2026,07:30,17.11.2026,10:10,86.69,0,25,yes,yes,17,4.0
+Offer108,Camino Express,Barcelona,18.11.2026,16:00,18.11.2026,18:46,82.15,0,25,yes,no,10,4.1
+Offer109,Camino Express,Barcelona,19.11.2026,07:00,19.11.2026,09:53,92.49,0,25,yes,yes,1,4.3
+Offer110,Camino Express,Barcelona,20.11.2026,16:30,20.11.2026,19:16,73.43,0,25,no,no,2,4.7
+Offer111,Camino Express,Barcelona,21.11.2026,07:30,21.11.2026,10:12,90.43,0,25,yes,yes,7,4.3
+Offer112,Camino Express,Barcelona,22.11.2026,16:30,22.11.2026,19:15,90.98,0,25,yes,yes,11,4.5
+Offer113,Camino Express,Valencia,16.11.2026,09:30,16.11.2026,11:34,79.09,0,25,yes,no,28,4.2
+Offer114,Camino Express,Valencia,17.11.2026,16:30,17.11.2026,18:26,63.01,0,25,no,no,8,4.2
+Offer115,Camino Express,Valencia,18.11.2026,07:30,18.11.2026,09:32,66.16,0,25,yes,no,24,4.3
+Offer116,Camino Express,Valencia,19.11.2026,07:00,19.11.2026,08:55,86.61,0,25,yes,yes,23,4.7
+Offer117,Camino Express,Valencia,20.11.2026,16:00,20.11.2026,18:04,73.3,0,25,yes,yes,24,3.9
+Offer118,Camino Express,Valencia,21.11.2026,09:00,21.11.2026,10:58,65.26,0,25,no,no,18,4.6
+Offer119,Camino Express,Valencia,22.11.2026,07:00,22.11.2026,08:58,79.44,0,25,yes,no,12,4.1
+Offer120,Camino Express,Seville,16.11.2026,07:00,16.11.2026,09:43,73.97,0,25,yes,no,19,4.6
+Offer121,Camino Express,Seville,17.11.2026,16:00,17.11.2026,18:46,62.66,0,25,no,no,8,4.5
+Offer122,Camino Express,Seville,18.11.2026,09:00,18.11.2026,11:35,80.52,0,25,yes,yes,1,4.6
+Offer123,Camino Express,Seville,19.11.2026,16:00,19.11.2026,18:35,88.1,0,25,yes,yes,23,4.3
+Offer124,Camino Express,Seville,20.11.2026,07:30,20.11.2026,10:03,85.62,0,25,yes,yes,6,4.4
+Offer125,Camino Express,Seville,21.11.2026,16:30,21.11.2026,19:17,84.53,0,25,yes,no,2,4.3
+Offer126,Camino Express,Seville,22.11.2026,07:30,22.11.2026,10:13,80.74,0,25,yes,no,24,4.3
+Offer127,Camino Express,Malaga,16.11.2026,07:30,16.11.2026,09:48,81.72,0,25,yes,yes,30,3.9
+Offer128,Camino Express,Malaga,17.11.2026,16:00,17.11.2026,18:20,88.62,0,25,yes,yes,30,4.0
+Offer129,Camino Express,Malaga,18.11.2026,09:00,18.11.2026,11:17,75.4,0,25,no,no,28,4.4
+Offer130,Camino Express,Malaga,19.11.2026,16:30,19.11.2026,18:54,82.0,0,25,yes,yes,17,4.3
+Offer131,Camino Express,Malaga,20.11.2026,07:30,20.11.2026,09:54,58.28,0,25,no,no,28,4.2
+Offer132,Camino Express,Malaga,21.11.2026,16:30,21.11.2026,18:52,73.4,0,25,yes,yes,10,4.2
+Offer133,Camino Express,Malaga,22.11.2026,07:30,22.11.2026,09:46,59.77,0,25,no,no,11,4.5
+Offer134,Camino Express,Granada,16.11.2026,07:00,16.11.2026,09:00,78.94,0,25,yes,yes,28,4.3
+Offer135,Camino Express,Granada,17.11.2026,16:30,17.11.2026,18:40,81.02,0,25,yes,yes,21,4.6
+Offer136,Camino Express,Granada,18.11.2026,07:30,18.11.2026,09:50,82.66,0,25,yes,yes,9,4.6
+Offer137,Camino Express,Granada,19.11.2026,09:00,19.11.2026,11:10,80.12,0,25,yes,yes,18,4.1
+Offer138,Camino Express,Granada,20.11.2026,16:30,20.11.2026,18:37,60.84,0,25,no,no,5,4.5
+Offer139,Camino Express,Granada,21.11.2026,07:00,21.11.2026,09:19,79.92,0,25,yes,yes,20,3.9
+Offer140,Camino Express,Granada,22.11.2026,07:00,22.11.2026,09:13,82.75,0,25,yes,yes,0,4.1
+Offer141,Camino Express,Cordoba,16.11.2026,16:00,16.11.2026,17:47,80.73,0,25,yes,yes,30,4.6
+Offer142,Camino Express,Cordoba,17.11.2026,09:30,17.11.2026,11:22,70.39,0,25,yes,yes,15,4.6
+Offer143,Camino Express,Cordoba,18.11.2026,16:30,18.11.2026,18:19,73.77,0,25,yes,yes,24,4.1
+Offer144,Camino Express,Cordoba,19.11.2026,09:00,19.11.2026,11:05,69.26,0,25,yes,no,28,4.3
+Offer145,Camino Express,Cordoba,20.11.2026,07:30,20.11.2026,09:23,53.07,0,25,no,no,21,4.2
+Offer146,Camino Express,Cordoba,21.11.2026,07:00,21.11.2026,08:46,78.3,0,25,yes,yes,16,4.2
+Offer147,Camino Express,Cordoba,22.11.2026,16:00,22.11.2026,17:58,57.53,0,25,no,no,28,4.6
+Offer148,Camino Express,Bilbao,16.11.2026,09:30,16.11.2026,11:47,94.65,0,25,yes,yes,5,4.1
+Offer149,Camino Express,Bilbao,17.11.2026,16:00,17.11.2026,18:36,80.74,0,25,yes,yes,8,4.2
+Offer150,Camino Express,Bilbao,18.11.2026,16:30,18.11.2026,19:05,79.44,0,25,yes,yes,13,4.1
+Offer151,Camino Express,Bilbao,19.11.2026,16:30,19.11.2026,19:04,92.21,0,25,yes,yes,12,4.2
+Offer152,Camino Express,Bilbao,20.11.2026,07:00,20.11.2026,09:18,76.35,0,25,yes,no,15,4.1
+Offer153,Camino Express,Bilbao,21.11.2026,16:00,21.11.2026,18:37,94.56,0,25,yes,yes,20,4.3
+Offer154,Camino Express,Bilbao,22.11.2026,07:00,22.11.2026,09:18,85.74,0,25,yes,yes,4,4.3
+Offer155,Camino Express,San Sebastian,16.11.2026,16:30,16.11.2026,19:00,65.21,0,25,no,no,5,4.0
+Offer156,Camino Express,San Sebastian,17.11.2026,16:00,17.11.2026,18:11,76.65,0,25,yes,yes,2,4.7
+Offer157,Camino Express,San Sebastian,18.11.2026,16:00,18.11.2026,18:29,93.62,0,25,yes,yes,23,4.4
+Offer158,Camino Express,San Sebastian,19.11.2026,07:00,19.11.2026,09:28,78.53,0,25,no,no,29,4.5
+Offer159,Camino Express,San Sebastian,20.11.2026,09:00,20.11.2026,11:16,93.52,0,25,yes,yes,14,4.1
+Offer160,Camino Express,San Sebastian,21.11.2026,09:30,21.11.2026,11:51,60.36,0,25,no,no,3,4.3
+Offer161,Camino Express,San Sebastian,22.11.2026,16:30,22.11.2026,18:45,91.64,0,25,yes,yes,27,4.2
+Offer162,Camino Express,Zaragoza,16.11.2026,07:00,16.11.2026,08:39,70.16,0,25,yes,yes,13,4.1
+Offer163,Camino Express,Zaragoza,17.11.2026,09:00,17.11.2026,10:48,64.2,0,25,no,no,20,4.2
+Offer164,Camino Express,Zaragoza,18.11.2026,07:30,18.11.2026,09:15,50.7,0,25,no,no,5,4.6
+Offer165,Camino Express,Zaragoza,19.11.2026,07:00,19.11.2026,08:49,80.21,0,25,yes,yes,2,4.5
+Offer166,Camino Express,Zaragoza,20.11.2026,16:30,20.11.2026,18:21,74.33,0,25,yes,yes,24,4.5
+Offer167,Camino Express,Zaragoza,21.11.2026,07:30,21.11.2026,09:11,71.71,0,25,yes,yes,1,4.4
+Offer168,Camino Express,Zaragoza,22.11.2026,16:30,22.11.2026,18:20,77.84,0,25,yes,yes,3,4.1
+Offer169,Camino Express,Alicante,16.11.2026,07:30,16.11.2026,09:45,66.76,0,25,no,no,3,4.1
+Offer170,Camino Express,Alicante,17.11.2026,09:30,17.11.2026,11:38,74.19,0,25,no,no,3,4.4
+Offer171,Camino Express,Alicante,18.11.2026,07:30,18.11.2026,09:44,71.47,0,25,yes,yes,22,4.7
+Offer172,Camino Express,Alicante,19.11.2026,09:30,19.11.2026,11:30,59.2,0,25,no,no,25,4.1
+Offer173,Camino Express,Alicante,20.11.2026,07:30,20.11.2026,09:26,81.43,0,25,yes,yes,26,4.0
+Offer174,Camino Express,Alicante,21.11.2026,16:30,21.11.2026,18:45,73.2,0,25,yes,yes,15,4.1
+Offer175,Camino Express,Alicante,22.11.2026,09:30,22.11.2026,11:31,84.27,0,25,yes,yes,1,4.4
+Offer176,Camino Express,Murcia,16.11.2026,16:30,16.11.2026,18:21,77.19,0,25,yes,yes,14,4.0
+Offer177,Camino Express,Murcia,17.11.2026,07:30,17.11.2026,09:14,84.28,0,25,yes,yes,15,4.3
+Offer178,Camino Express,Murcia,18.11.2026,09:30,18.11.2026,11:17,59.7,0,25,no,no,22,4.1
+Offer179,Camino Express,Murcia,19.11.2026,07:00,19.11.2026,09:00,54.82,0,25,no,no,29,4.5
+Offer180,Camino Express,Murcia,20.11.2026,16:30,20.11.2026,18:26,74.56,0,25,yes,yes,8,4.0
+Offer181,Camino Express,Murcia,21.11.2026,09:00,21.11.2026,10:58,77.51,0,25,yes,yes,16,3.9
+Offer182,Camino Express,Murcia,22.11.2026,07:30,22.11.2026,09:32,70.15,0,25,no,no,16,4.3
+Offer183,Camino Express,Salamanca,16.11.2026,07:00,16.11.2026,08:42,75.06,0,25,yes,yes,24,4.6
+Offer184,Camino Express,Salamanca,17.11.2026,07:30,17.11.2026,09:08,76.32,0,25,yes,yes,16,4.4
+Offer185,Camino Express,Salamanca,18.11.2026,09:00,18.11.2026,10:38,60.89,0,25,yes,no,14,4.2
+Offer186,Camino Express,Salamanca,19.11.2026,07:30,19.11.2026,08:58,49.93,0,25,no,no,22,3.9
+Offer187,Camino Express,Salamanca,20.11.2026,09:00,20.11.2026,10:43,76.43,0,25,yes,yes,12,4.7
+Offer188,Camino Express,Salamanca,21.11.2026,07:30,21.11.2026,09:09,66.92,0,25,yes,no,17,4.0
+Offer189,Camino Express,Salamanca,22.11.2026,16:00,22.11.2026,17:41,68.39,0,25,yes,yes,27,4.1
+Offer190,Camino Express,Toledo,16.11.2026,16:30,16.11.2026,17:56,52.5,0,25,no,no,27,4.7
+Offer191,Camino Express,Toledo,17.11.2026,16:30,17.11.2026,17:47,64.08,0,25,yes,yes,30,4.2
+Offer192,Camino Express,Toledo,18.11.2026,16:00,18.11.2026,17:11,64.65,0,25,yes,no,9,4.6
+Offer193,Camino Express,Toledo,19.11.2026,09:00,19.11.2026,10:19,66.61,0,25,yes,yes,13,4.3
+Offer194,Camino Express,Toledo,20.11.2026,09:00,20.11.2026,10:12,62.53,0,25,yes,yes,12,4.4
+Offer195,Camino Express,Toledo,21.11.2026,16:30,21.11.2026,17:50,70.53,0,25,yes,yes,12,4.6
+Offer196,Camino Express,Toledo,22.11.2026,16:00,22.11.2026,17:09,59.37,0,25,yes,yes,17,4.7
+Offer197,Camino Express,Santiago de Compostela,16.11.2026,07:00,16.11.2026,09:54,95.76,0,25,yes,yes,28,4.3
+Offer198,Camino Express,Santiago de Compostela,17.11.2026,16:30,17.11.2026,19:19,92.81,0,25,yes,yes,11,4.7
+Offer199,Camino Express,Santiago de Compostela,18.11.2026,09:30,18.11.2026,12:26,76.25,0,25,no,no,4,4.3
+Offer200,Camino Express,Santiago de Compostela,19.11.2026,16:00,19.11.2026,18:54,83.37,0,25,no,no,8,4.1
+Offer201,Camino Express,Santiago de Compostela,20.11.2026,16:30,20.11.2026,19:32,85.75,0,25,yes,yes,27,4.1
+Offer202,Camino Express,Santiago de Compostela,21.11.2026,07:30,21.11.2026,10:26,72.26,0,25,no,no,17,4.3
+Offer203,Camino Express,Santiago de Compostela,22.11.2026,16:30,22.11.2026,19:39,85.09,0,25,yes,yes,8,4.3
+Offer204,Camino Express,Cadiz,16.11.2026,07:00,16.11.2026,09:30,74.97,0,25,no,no,1,4.1
+Offer205,Camino Express,Cadiz,17.11.2026,09:00,17.11.2026,11:41,82.28,0,25,no,no,30,3.9
+Offer206,Camino Express,Cadiz,18.11.2026,07:00,18.11.2026,09:22,71.88,0,25,yes,no,12,3.9
+Offer207,Camino Express,Cadiz,19.11.2026,07:00,19.11.2026,09:29,87.89,0,25,yes,yes,17,4.4
+Offer208,Camino Express,Cadiz,20.11.2026,07:30,20.11.2026,10:08,89.32,0,25,yes,yes,22,4.0
+Offer209,Camino Express,Cadiz,21.11.2026,16:00,21.11.2026,18:40,78.21,0,25,yes,no,15,4.6
+Offer210,Camino Express,Cadiz,22.11.2026,09:30,22.11.2026,11:58,96.99,0,25,yes,yes,10,4.2
+Offer211,CostaLink,Barcelona,16.11.2026,15:00,16.11.2026,18:08,65.24,0,20,yes,no,25,3.9
+Offer212,CostaLink,Barcelona,17.11.2026,15:30,17.11.2026,18:34,62.28,0,20,no,no,7,4.1
+Offer213,CostaLink,Barcelona,18.11.2026,11:30,18.11.2026,14:25,68.37,0,20,yes,no,28,3.9
+Offer214,CostaLink,Barcelona,19.11.2026,08:30,19.11.2026,12:12,55.0,1,20,no,no,16,4.3
+Offer215,CostaLink,Barcelona,20.11.2026,11:30,20.11.2026,15:19,58.12,1,20,no,no,27,4.2
+Offer216,CostaLink,Barcelona,21.11.2026,11:00,21.11.2026,13:56,71.61,0,20,yes,yes,16,3.9
+Offer217,CostaLink,Barcelona,22.11.2026,15:30,22.11.2026,19:15,57.94,1,20,no,no,12,3.8
+Offer218,CostaLink,Valencia,16.11.2026,08:30,16.11.2026,10:34,49.54,0,20,yes,no,0,3.8
+Offer219,CostaLink,Valencia,17.11.2026,08:30,17.11.2026,11:34,45.11,1,20,no,no,10,3.7
+Offer220,CostaLink,Valencia,18.11.2026,11:30,18.11.2026,14:26,52.25,1,20,yes,no,19,3.6
+Offer221,CostaLink,Valencia,19.11.2026,15:00,19.11.2026,17:44,57.83,1,20,yes,no,0,3.8
+Offer222,CostaLink,Valencia,20.11.2026,15:30,20.11.2026,17:41,58.6,0,20,yes,no,22,3.8
+Offer223,CostaLink,Valencia,21.11.2026,08:00,21.11.2026,11:01,48.19,1,20,no,no,23,3.7
+Offer224,CostaLink,Valencia,22.11.2026,15:00,22.11.2026,17:58,50.32,1,20,yes,no,30,4.2
+Offer225,CostaLink,Seville,16.11.2026,08:00,16.11.2026,11:14,55.65,0,20,no,no,8,4.4
+Offer226,CostaLink,Seville,17.11.2026,15:30,17.11.2026,19:20,80.25,1,20,yes,yes,8,3.9
+Offer227,CostaLink,Seville,18.11.2026,11:00,18.11.2026,14:54,67.37,1,20,no,no,17,4.1
+Offer228,CostaLink,Seville,19.11.2026,11:30,19.11.2026,15:17,58.41,1,20,no,no,15,3.8
+Offer229,CostaLink,Seville,20.11.2026,08:30,20.11.2026,11:34,66.57,0,20,no,no,22,4.2
+Offer230,CostaLink,Seville,21.11.2026,11:30,21.11.2026,14:50,65.26,0,20,yes,no,9,3.9
+Offer231,CostaLink,Seville,22.11.2026,08:00,22.11.2026,11:19,58.13,0,20,no,no,8,4.2
+Offer232,CostaLink,Malaga,16.11.2026,11:00,16.11.2026,13:36,62.86,0,20,yes,yes,22,4.1
+Offer233,CostaLink,Malaga,17.11.2026,15:30,17.11.2026,18:05,56.55,0,20,no,no,11,3.7
+Offer234,CostaLink,Malaga,18.11.2026,11:00,18.11.2026,14:18,44.2,1,20,no,no,19,4.2
+Offer235,CostaLink,Malaga,19.11.2026,08:30,19.11.2026,11:45,60.88,1,20,yes,yes,27,4.3
+Offer236,CostaLink,Malaga,20.11.2026,15:30,20.11.2026,18:51,52.23,1,20,no,no,18,4.4
+Offer237,CostaLink,Malaga,21.11.2026,11:30,21.11.2026,13:54,52.46,0,20,no,no,23,3.8
+Offer238,CostaLink,Malaga,22.11.2026,15:30,22.11.2026,18:47,53.82,1,20,no,no,29,4.4
+Offer239,CostaLink,Granada,16.11.2026,08:00,16.11.2026,10:36,59.71,0,20,no,no,20,4.3
+Offer240,CostaLink,Granada,17.11.2026,15:00,17.11.2026,17:30,54.89,0,20,no,no,23,3.9
+Offer241,CostaLink,Granada,18.11.2026,11:30,18.11.2026,14:51,54.34,1,20,yes,no,12,4.2
+Offer242,CostaLink,Granada,19.11.2026,11:30,19.11.2026,14:08,56.9,0,20,no,no,5,4.1
+Offer243,CostaLink,Granada,20.11.2026,08:00,20.11.2026,11:24,61.96,1,20,no,no,15,3.9
+Offer244,CostaLink,Granada,21.11.2026,11:30,21.11.2026,14:57,54.86,1,20,no,no,17,4.3
+Offer245,CostaLink,Granada,22.11.2026,15:30,22.11.2026,18:12,47.64,0,20,no,no,29,4.1
+Offer246,CostaLink,Cordoba,16.11.2026,08:00,16.11.2026,10:10,59.72,0,20,yes,no,26,4.0
+Offer247,CostaLink,Cordoba,17.11.2026,11:00,17.11.2026,13:12,45.11,0,20,no,no,18,3.8
+Offer248,CostaLink,Cordoba,18.11.2026,15:30,18.11.2026,18:23,55.48,1,20,no,no,19,4.2
+Offer249,CostaLink,Cordoba,19.11.2026,08:00,19.11.2026,11:00,55.63,1,20,no,no,0,4.2
+Offer250,CostaLink,Cordoba,20.11.2026,15:00,20.11.2026,17:28,57.61,0,20,no,no,16,4.2
+Offer251,CostaLink,Cordoba,21.11.2026,15:00,21.11.2026,17:20,51.96,0,20,no,no,28,3.8
+Offer252,CostaLink,Cordoba,22.11.2026,11:30,22.11.2026,13:38,69.54,0,20,yes,yes,11,4.2
+Offer253,CostaLink,Bilbao,16.11.2026,11:30,16.11.2026,14:12,60.35,0,20,no,no,4,3.7
+Offer254,CostaLink,Bilbao,17.11.2026,11:30,17.11.2026,14:20,62.63,0,20,yes,no,5,3.9
+Offer255,CostaLink,Bilbao,18.11.2026,15:30,18.11.2026,18:08,59.0,0,20,yes,no,6,4.2
+Offer256,CostaLink,Bilbao,19.11.2026,11:30,19.11.2026,14:17,47.18,0,20,no,no,7,4.2
+Offer257,CostaLink,Bilbao,20.11.2026,11:00,20.11.2026,14:28,61.83,1,20,yes,no,7,3.7
+Offer258,CostaLink,Bilbao,21.11.2026,11:00,21.11.2026,13:31,59.58,0,20,yes,no,14,4.0
+Offer259,CostaLink,Bilbao,22.11.2026,08:00,22.11.2026,10:45,48.99,0,20,no,no,29,4.3
+Offer260,CostaLink,San Sebastian,16.11.2026,15:30,16.11.2026,17:57,53.01,0,20,no,no,11,4.1
+Offer261,CostaLink,San Sebastian,17.11.2026,15:00,17.11.2026,17:41,48.39,0,20,no,no,4,4.2
+Offer262,CostaLink,San Sebastian,18.11.2026,15:30,18.11.2026,18:05,52.22,0,20,no,no,10,4.1
+Offer263,CostaLink,San Sebastian,19.11.2026,08:30,19.11.2026,11:38,45.19,1,20,no,no,3,4.1
+Offer264,CostaLink,San Sebastian,20.11.2026,08:00,20.11.2026,11:07,52.91,1,20,yes,no,7,3.9
+Offer265,CostaLink,San Sebastian,21.11.2026,11:00,21.11.2026,13:22,60.01,0,20,yes,yes,14,4.4
+Offer266,CostaLink,San Sebastian,22.11.2026,08:00,22.11.2026,10:38,70.29,0,20,yes,yes,25,3.8
+Offer267,CostaLink,Zaragoza,16.11.2026,08:00,16.11.2026,10:12,64.37,0,20,yes,yes,8,3.9
+Offer268,CostaLink,Zaragoza,17.11.2026,15:00,17.11.2026,17:16,67.44,0,20,yes,yes,18,4.4
+Offer269,CostaLink,Zaragoza,18.11.2026,08:30,18.11.2026,11:19,69.45,1,20,yes,yes,4,4.1
+Offer270,CostaLink,Zaragoza,19.11.2026,15:00,19.11.2026,17:47,49.21,1,20,yes,no,13,4.0
+Offer271,CostaLink,Zaragoza,20.11.2026,15:30,20.11.2026,17:31,55.36,0,20,no,no,18,3.6
+Offer272,CostaLink,Zaragoza,21.11.2026,11:30,21.11.2026,13:31,57.87,0,20,yes,no,12,4.2
+Offer273,CostaLink,Zaragoza,22.11.2026,08:00,22.11.2026,10:06,47.68,0,20,no,no,13,4.3
+Offer274,CostaLink,Alicante,16.11.2026,08:30,16.11.2026,10:46,54.27,0,20,no,no,6,4.4
+Offer275,CostaLink,Alicante,17.11.2026,08:30,17.11.2026,11:29,68.27,1,20,yes,yes,22,4.0
+Offer276,CostaLink,Alicante,18.11.2026,11:30,18.11.2026,13:46,55.68,0,20,no,no,7,3.7
+Offer277,CostaLink,Alicante,19.11.2026,15:00,19.11.2026,17:20,68.61,0,20,yes,yes,22,4.4
+Offer278,CostaLink,Alicante,20.11.2026,11:30,20.11.2026,14:32,58.02,1,20,yes,yes,16,3.6
+Offer279,CostaLink,Alicante,21.11.2026,11:30,21.11.2026,14:40,60.02,1,20,yes,no,28,3.8
+Offer280,CostaLink,Alicante,22.11.2026,15:00,22.11.2026,17:07,53.64,0,20,yes,no,3,4.3
+Offer281,CostaLink,Murcia,16.11.2026,11:00,16.11.2026,13:21,51.13,0,20,no,no,19,4.0
+Offer282,CostaLink,Murcia,17.11.2026,15:00,17.11.2026,17:56,60.46,1,20,no,no,14,4.2
+Offer283,CostaLink,Murcia,18.11.2026,08:30,18.11.2026,11:38,58.82,1,20,yes,no,18,4.4
+Offer284,CostaLink,Murcia,19.11.2026,15:00,19.11.2026,17:53,61.63,1,20,yes,yes,16,4.4
+Offer285,CostaLink,Murcia,20.11.2026,11:30,20.11.2026,14:30,60.01,1,20,yes,no,24,4.3
+Offer286,CostaLink,Murcia,21.11.2026,11:00,21.11.2026,13:12,57.09,0,20,no,no,19,4.3
+Offer287,CostaLink,Murcia,22.11.2026,11:00,22.11.2026,13:09,69.77,0,20,yes,yes,13,4.2
+Offer288,CostaLink,Salamanca,16.11.2026,08:30,16.11.2026,10:22,51.03,0,20,no,no,26,4.1
+Offer289,CostaLink,Salamanca,17.11.2026,08:00,17.11.2026,10:34,56.91,1,20,yes,no,8,4.1
+Offer290,CostaLink,Salamanca,18.11.2026,15:00,18.11.2026,17:41,65.01,1,20,yes,yes,17,4.2
+Offer291,CostaLink,Salamanca,19.11.2026,11:30,19.11.2026,13:20,47.9,0,20,no,no,24,3.6
+Offer292,CostaLink,Salamanca,20.11.2026,11:30,20.11.2026,14:12,51.96,1,20,yes,no,18,3.9
+Offer293,CostaLink,Salamanca,21.11.2026,15:00,21.11.2026,17:46,52.98,1,20,no,no,5,3.6
+Offer294,CostaLink,Salamanca,22.11.2026,08:30,22.11.2026,11:15,50.86,1,20,yes,no,2,3.6
+Offer295,CostaLink,Toledo,16.11.2026,08:30,16.11.2026,10:56,46.25,1,20,yes,no,1,4.3
+Offer296,CostaLink,Toledo,17.11.2026,08:00,17.11.2026,10:22,57.62,1,20,yes,yes,28,3.9
+Offer297,CostaLink,Toledo,18.11.2026,08:30,18.11.2026,10:41,53.17,1,20,yes,no,3,3.7
+Offer298,CostaLink,Toledo,19.11.2026,11:30,19.11.2026,12:58,44.06,0,20,yes,no,9,4.0
+Offer299,CostaLink,Toledo,20.11.2026,08:00,20.11.2026,09:38,38.57,0,20,no,no,1,4.0
+Offer300,CostaLink,Toledo,21.11.2026,11:30,21.11.2026,12:59,55.06,0,20,yes,no,15,4.0
+Offer301,CostaLink,Toledo,22.11.2026,11:30,22.11.2026,12:58,38.81,0,20,no,no,18,4.1
+Offer302,CostaLink,Santiago de Compostela,16.11.2026,15:30,16.11.2026,19:07,87.71,0,20,yes,yes,8,3.8
+Offer303,CostaLink,Santiago de Compostela,17.11.2026,08:30,17.11.2026,12:12,82.64,0,20,yes,yes,15,3.9
+Offer304,CostaLink,Santiago de Compostela,18.11.2026,11:00,18.11.2026,15:30,57.71,1,20,no,no,11,3.8
+Offer305,CostaLink,Santiago de Compostela,19.11.2026,11:00,19.11.2026,14:37,82.9,0,20,yes,yes,21,3.6
+Offer306,CostaLink,Santiago de Compostela,20.11.2026,08:30,20.11.2026,12:00,71.24,0,20,yes,no,9,4.0
+Offer307,CostaLink,Santiago de Compostela,21.11.2026,08:00,21.11.2026,11:42,65.82,0,20,yes,no,6,3.8
+Offer308,CostaLink,Santiago de Compostela,22.11.2026,11:30,22.11.2026,16:00,76.78,1,20,yes,no,8,4.0
+Offer309,CostaLink,Cadiz,16.11.2026,11:30,16.11.2026,14:04,55.47,0,20,yes,no,17,3.7
+Offer310,CostaLink,Cadiz,17.11.2026,08:30,17.11.2026,11:09,67.04,0,20,yes,yes,27,4.1
+Offer311,CostaLink,Cadiz,18.11.2026,08:30,18.11.2026,11:18,68.87,0,20,yes,yes,1,3.7
+Offer312,CostaLink,Cadiz,19.11.2026,08:00,19.11.2026,10:50,70.05,0,20,yes,no,28,4.1
+Offer313,CostaLink,Cadiz,20.11.2026,08:30,20.11.2026,11:52,73.62,1,20,yes,yes,28,4.4
+Offer314,CostaLink,Cadiz,21.11.2026,11:00,21.11.2026,14:26,51.85,1,20,no,no,18,4.1
+Offer315,CostaLink,Cadiz,22.11.2026,15:00,22.11.2026,17:42,50.25,0,20,no,no,4,4.1
+Offer316,VerdeBus,Barcelona,16.11.2026,13:00,16.11.2026,16:17,79.22,0,20,yes,no,29,4.7
+Offer317,VerdeBus,Barcelona,17.11.2026,13:30,17.11.2026,17:28,75.86,1,20,no,no,8,4.0
+Offer318,VerdeBus,Barcelona,18.11.2026,13:30,18.11.2026,17:33,80.39,1,20,no,no,21,4.6
+Offer319,VerdeBus,Barcelona,19.11.2026,17:00,19.11.2026,20:10,79.72,0,20,no,no,17,4.1
+Offer320,VerdeBus,Barcelona,20.11.2026,17:30,20.11.2026,21:38,91.01,1,20,yes,yes,4,4.3
+Offer321,VerdeBus,Barcelona,21.11.2026,17:00,21.11.2026,20:50,88.83,1,20,yes,yes,25,4.5
+Offer322,VerdeBus,Barcelona,22.11.2026,09:00,22.11.2026,12:04,70.91,0,20,no,no,14,4.0
+Offer323,VerdeBus,Valencia,16.11.2026,17:30,16.11.2026,20:39,65.14,1,20,yes,yes,25,4.1
+Offer324,VerdeBus,Valencia,17.11.2026,17:00,17.11.2026,19:22,66.05,0,20,yes,yes,22,4.2
+Offer325,VerdeBus,Valencia,18.11.2026,17:00,18.11.2026,19:10,63.85,0,20,yes,no,9,4.2
+Offer326,VerdeBus,Valencia,19.11.2026,17:30,19.11.2026,20:32,68.18,1,20,yes,yes,19,4.1
+Offer327,VerdeBus,Valencia,20.11.2026,13:30,20.11.2026,16:24,76.53,1,20,yes,yes,17,4.2
+Offer328,VerdeBus,Valencia,21.11.2026,13:00,21.11.2026,15:26,78.69,0,20,yes,yes,21,4.6
+Offer329,VerdeBus,Valencia,22.11.2026,09:30,22.11.2026,11:45,69.24,0,20,yes,no,9,4.5
+Offer330,VerdeBus,Seville,16.11.2026,13:00,16.11.2026,15:59,59.85,0,20,no,no,29,4.1
+Offer331,VerdeBus,Seville,17.11.2026,17:00,17.11.2026,20:55,68.94,1,20,no,no,17,4.6
+Offer332,VerdeBus,Seville,18.11.2026,09:00,18.11.2026,12:09,71.9,0,20,yes,no,13,4.2
+Offer333,VerdeBus,Seville,19.11.2026,09:30,19.11.2026,12:33,73.53,0,20,yes,yes,30,4.5
+Offer334,VerdeBus,Seville,20.11.2026,17:30,20.11.2026,21:25,79.37,1,20,yes,yes,13,4.1
+Offer335,VerdeBus,Seville,21.11.2026,17:00,21.11.2026,20:56,80.21,1,20,yes,yes,11,4.2
+Offer336,VerdeBus,Seville,22.11.2026,17:30,22.11.2026,21:17,81.2,1,20,yes,yes,6,4.2
+Offer337,VerdeBus,Malaga,16.11.2026,13:30,16.11.2026,17:04,57.58,1,20,no,no,15,4.7
+Offer338,VerdeBus,Malaga,17.11.2026,09:30,17.11.2026,12:48,72.8,1,20,yes,no,20,4.6
+Offer339,VerdeBus,Malaga,18.11.2026,09:30,18.11.2026,12:07,67.08,0,20,no,no,11,4.4
+Offer340,VerdeBus,Malaga,19.11.2026,09:00,19.11.2026,11:30,63.36,0,20,no,no,27,4.5
+Offer341,VerdeBus,Malaga,20.11.2026,17:00,20.11.2026,20:32,55.9,1,20,no,no,17,4.4
+Offer342,VerdeBus,Malaga,21.11.2026,17:30,21.11.2026,20:48,70.43,1,20,yes,yes,30,4.4
+Offer343,VerdeBus,Malaga,22.11.2026,09:00,22.11.2026,12:26,58.71,1,20,yes,no,30,4.8
+Offer344,VerdeBus,Granada,16.11.2026,13:00,16.11.2026,15:25,71.55,0,20,yes,yes,6,4.3
+Offer345,VerdeBus,Granada,17.11.2026,13:00,17.11.2026,15:41,61.05,0,20,no,no,28,4.1
+Offer346,VerdeBus,Granada,18.11.2026,17:30,18.11.2026,19:57,69.96,0,20,yes,yes,19,4.4
+Offer347,VerdeBus,Granada,19.11.2026,17:30,19.11.2026,19:57,62.32,0,20,no,no,7,4.1
+Offer348,VerdeBus,Granada,20.11.2026,13:00,20.11.2026,16:12,62.26,1,20,yes,no,21,4.1
+Offer349,VerdeBus,Granada,21.11.2026,17:00,21.11.2026,20:10,73.32,1,20,yes,yes,2,4.8
+Offer350,VerdeBus,Granada,22.11.2026,09:00,22.11.2026,11:23,62.05,0,20,yes,no,12,4.6
+Offer351,VerdeBus,Cordoba,16.11.2026,13:00,16.11.2026,15:56,61.44,1,20,yes,yes,25,4.4
+Offer352,VerdeBus,Cordoba,17.11.2026,17:00,17.11.2026,20:02,60.99,1,20,yes,yes,11,4.1
+Offer353,VerdeBus,Cordoba,18.11.2026,09:00,18.11.2026,12:07,58.63,1,20,no,no,30,4.5
+Offer354,VerdeBus,Cordoba,19.11.2026,17:00,19.11.2026,20:02,57.57,1,20,yes,no,10,4.2
+Offer355,VerdeBus,Cordoba,20.11.2026,09:00,20.11.2026,12:03,57.13,1,20,no,no,20,4.3
+Offer356,VerdeBus,Cordoba,21.11.2026,13:30,21.11.2026,16:34,66.93,1,20,yes,yes,29,4.6
+Offer357,VerdeBus,Cordoba,22.11.2026,09:00,22.11.2026,11:25,62.65,0,20,yes,no,19,4.5
+Offer358,VerdeBus,Bilbao,16.11.2026,09:30,16.11.2026,12:17,72.23,0,20,no,no,8,4.7
+Offer359,VerdeBus,Bilbao,17.11.2026,13:00,17.11.2026,16:00,57.37,0,20,no,no,23,4.4
+Offer360,VerdeBus,Bilbao,18.11.2026,17:00,18.11.2026,20:40,69.76,1,20,no,no,24,4.1
+Offer361,VerdeBus,Bilbao,19.11.2026,13:00,19.11.2026,15:59,74.28,0,20,yes,yes,5,4.7
+Offer362,VerdeBus,Bilbao,20.11.2026,09:00,20.11.2026,11:43,71.82,0,20,yes,no,5,4.0
+Offer363,VerdeBus,Bilbao,21.11.2026,17:30,21.11.2026,20:32,84.07,0,20,yes,yes,7,4.7
+Offer364,VerdeBus,Bilbao,22.11.2026,09:00,22.11.2026,11:45,72.29,0,20,yes,yes,10,4.5
+Offer365,VerdeBus,San Sebastian,16.11.2026,09:00,16.11.2026,12:19,86.57,1,20,yes,yes,4,4.7
+Offer366,VerdeBus,San Sebastian,17.11.2026,13:00,17.11.2026,16:24,65.17,1,20,no,no,30,4.1
+Offer367,VerdeBus,San Sebastian,18.11.2026,09:00,18.11.2026,12:25,60.09,1,20,no,no,16,4.7
+Offer368,VerdeBus,San Sebastian,19.11.2026,13:00,19.11.2026,16:25,83.17,1,20,yes,yes,28,4.7
+Offer369,VerdeBus,San Sebastian,20.11.2026,09:30,20.11.2026,12:17,57.67,0,20,no,no,11,4.7
+Offer370,VerdeBus,San Sebastian,21.11.2026,13:00,21.11.2026,16:33,72.41,1,20,no,no,16,4.7
+Offer371,VerdeBus,San Sebastian,22.11.2026,09:30,22.11.2026,12:22,58.33,0,20,no,no,17,4.1
+Offer372,VerdeBus,Zaragoza,16.11.2026,17:00,16.11.2026,18:56,55.6,0,20,yes,no,12,4.8
+Offer373,VerdeBus,Zaragoza,17.11.2026,17:30,17.11.2026,19:46,71.65,0,20,yes,yes,25,4.7
+Offer374,VerdeBus,Zaragoza,18.11.2026,09:00,18.11.2026,10:58,73.59,0,20,yes,yes,14,4.7
+Offer375,VerdeBus,Zaragoza,19.11.2026,13:00,19.11.2026,15:41,67.8,1,20,yes,yes,8,4.8
+Offer376,VerdeBus,Zaragoza,20.11.2026,09:30,20.11.2026,12:19,52.38,1,20,yes,no,5,4.1
+Offer377,VerdeBus,Zaragoza,21.11.2026,09:00,21.11.2026,11:06,57.6,0,20,no,no,25,4.3
+Offer378,VerdeBus,Zaragoza,22.11.2026,13:00,22.11.2026,15:48,56.79,1,20,no,no,7,4.7
+Offer379,VerdeBus,Alicante,16.11.2026,09:00,16.11.2026,11:36,58.69,0,20,no,no,23,4.3
+Offer380,VerdeBus,Alicante,17.11.2026,13:30,17.11.2026,15:51,69.53,0,20,yes,yes,14,4.1
+Offer381,VerdeBus,Alicante,18.11.2026,17:30,18.11.2026,20:35,65.09,1,20,yes,no,24,4.2
+Offer382,VerdeBus,Alicante,19.11.2026,13:00,19.11.2026,16:06,73.2,1,20,yes,yes,20,4.5
+Offer383,VerdeBus,Alicante,20.11.2026,13:00,20.11.2026,16:15,69.42,1,20,yes,no,0,4.5
+Offer384,VerdeBus,Alicante,21.11.2026,17:30,21.11.2026,20:52,60.25,1,20,no,no,8,4.7
+Offer385,VerdeBus,Alicante,22.11.2026,09:00,22.11.2026,12:15,63.8,1,20,no,no,30,4.3
+Offer386,VerdeBus,Murcia,16.11.2026,13:00,16.11.2026,15:53,57.77,1,20,yes,no,15,4.6
+Offer387,VerdeBus,Murcia,17.11.2026,17:30,17.11.2026,19:46,63.15,0,20,yes,yes,16,4.3
+Offer388,VerdeBus,Murcia,18.11.2026,17:30,18.11.2026,19:47,71.28,0,20,yes,yes,30,4.5
+Offer389,VerdeBus,Murcia,19.11.2026,09:30,19.11.2026,12:30,75.73,1,20,yes,yes,14,4.8
+Offer390,VerdeBus,Murcia,20.11.2026,17:30,20.11.2026,20:23,63.06,1,20,yes,yes,6,4.2
+Offer391,VerdeBus,Murcia,21.11.2026,13:00,21.11.2026,15:09,55.36,0,20,no,no,17,4.4
+Offer392,VerdeBus,Murcia,22.11.2026,17:00,22.11.2026,19:56,61.2,1,20,no,no,20,4.6
+Offer393,VerdeBus,Salamanca,16.11.2026,09:30,16.11.2026,12:06,64.0,1,20,yes,yes,11,4.5
+Offer394,VerdeBus,Salamanca,17.11.2026,09:30,17.11.2026,12:15,61.99,1,20,yes,no,30,4.7
+Offer395,VerdeBus,Salamanca,18.11.2026,13:00,18.11.2026,15:26,52.22,1,20,no,no,2,4.3
+Offer396,VerdeBus,Salamanca,19.11.2026,17:00,19.11.2026,18:53,48.21,0,20,no,no,9,4.5
+Offer397,VerdeBus,Salamanca,20.11.2026,09:30,20.11.2026,11:17,56.57,0,20,yes,no,0,4.2
+Offer398,VerdeBus,Salamanca,21.11.2026,17:00,21.11.2026,19:44,46.68,1,20,no,no,18,4.5
+Offer399,VerdeBus,Salamanca,22.11.2026,17:30,22.11.2026,19:17,63.03,0,20,yes,yes,19,4.3
+Offer400,VerdeBus,Toledo,16.11.2026,17:30,16.11.2026,19:43,57.44,1,20,yes,yes,23,4.3
+Offer401,VerdeBus,Toledo,17.11.2026,13:30,17.11.2026,15:08,41.45,0,20,no,no,22,4.3
+Offer402,VerdeBus,Toledo,18.11.2026,09:30,18.11.2026,11:00,65.03,0,20,yes,yes,19,4.3
+Offer403,VerdeBus,Toledo,19.11.2026,09:30,19.11.2026,11:05,53.88,0,20,yes,no,15,4.7
+Offer404,VerdeBus,Toledo,20.11.2026,17:00,20.11.2026,18:28,53.45,0,20,yes,no,30,4.0
+Offer405,VerdeBus,Toledo,21.11.2026,09:00,21.11.2026,11:05,47.44,1,20,no,no,28,4.4
+Offer406,VerdeBus,Toledo,22.11.2026,13:30,22.11.2026,14:52,39.72,0,20,no,no,27,4.1
+Offer407,VerdeBus,Santiago de Compostela,16.11.2026,17:30,16.11.2026,21:48,77.21,1,20,no,no,0,4.3
+Offer408,VerdeBus,Santiago de Compostela,17.11.2026,13:30,17.11.2026,17:07,91.75,0,20,yes,yes,3,4.6
+Offer409,VerdeBus,Santiago de Compostela,18.11.2026,09:00,18.11.2026,13:21,79.94,1,20,yes,yes,0,4.4
+Offer410,VerdeBus,Santiago de Compostela,19.11.2026,17:30,19.11.2026,20:54,69.67,0,20,no,no,27,4.3
+Offer411,VerdeBus,Santiago de Compostela,20.11.2026,13:00,20.11.2026,16:26,75.73,0,20,yes,yes,16,4.4
+Offer412,VerdeBus,Santiago de Compostela,21.11.2026,13:30,21.11.2026,17:42,64.86,1,20,no,no,22,4.6
+Offer413,VerdeBus,Santiago de Compostela,22.11.2026,09:00,22.11.2026,12:26,90.86,0,20,yes,yes,25,4.2
+Offer414,VerdeBus,Cadiz,16.11.2026,17:00,16.11.2026,20:39,64.94,1,20,no,no,28,4.6
+Offer415,VerdeBus,Cadiz,17.11.2026,09:30,17.11.2026,12:32,81.29,0,20,yes,yes,16,4.8
+Offer416,VerdeBus,Cadiz,18.11.2026,17:30,18.11.2026,21:17,65.97,1,20,no,no,10,4.3
+Offer417,VerdeBus,Cadiz,19.11.2026,13:30,19.11.2026,16:29,73.7,0,20,no,no,22,4.1
+Offer418,VerdeBus,Cadiz,20.11.2026,17:30,20.11.2026,20:34,72.72,0,20,yes,yes,12,4.7
+Offer419,VerdeBus,Cadiz,21.11.2026,09:00,21.11.2026,11:46,71.28,0,20,no,no,15,4.4
+Offer420,VerdeBus,Cadiz,22.11.2026,13:30,22.11.2026,17:16,77.95,1,20,yes,yes,3,4.1
+Offer421,NocheVia,Barcelona,16.11.2026,23:30,17.11.2026,03:47,65.36,1,20,no,no,10,4.0
+Offer422,NocheVia,Barcelona,17.11.2026,22:30,18.11.2026,01:48,72.68,0,20,no,no,18,4.2
+Offer423,NocheVia,Barcelona,18.11.2026,22:30,19.11.2026,01:59,74.17,0,20,no,no,13,3.4
+Offer424,NocheVia,Barcelona,19.11.2026,22:00,20.11.2026,02:09,65.3,1,20,no,no,17,3.6
+Offer425,NocheVia,Barcelona,20.11.2026,22:30,21.11.2026,02:38,63.17,1,20,yes,no,11,3.6
+Offer426,NocheVia,Barcelona,21.11.2026,23:00,22.11.2026,02:29,72.41,0,20,no,no,26,4.0
+Offer427,NocheVia,Barcelona,22.11.2026,23:00,23.11.2026,03:08,83.45,1,20,yes,yes,4,3.9
+Offer428,NocheVia,Valencia,16.11.2026,22:30,17.11.2026,01:34,53.61,1,20,no,no,10,3.8
+Offer429,NocheVia,Valencia,17.11.2026,23:00,18.11.2026,01:25,53.93,0,20,no,no,3,3.8
+Offer430,NocheVia,Valencia,18.11.2026,22:30,19.11.2026,00:51,57.63,0,20,no,no,22,3.6
+Offer431,NocheVia,Valencia,19.11.2026,21:00,20.11.2026,00:04,62.72,1,20,yes,no,21,4.0
+Offer432,NocheVia,Valencia,20.11.2026,22:00,21.11.2026,01:12,58.82,1,20,yes,no,14,3.8
+Offer433,NocheVia,Valencia,21.11.2026,21:30,22.11.2026,00:45,47.24,1,20,no,no,1,4.0
+Offer434,NocheVia,Valencia,22.11.2026,23:30,23.11.2026,02:40,49.71,1,20,no,no,10,3.6
+Offer435,NocheVia,Seville,16.11.2026,23:00,17.11.2026,02:09,53.72,0,20,no,no,20,3.9
+Offer436,NocheVia,Seville,17.11.2026,21:30,18.11.2026,00:43,62.93,0,20,no,no,4,3.6
+Offer437,NocheVia,Seville,18.11.2026,21:00,19.11.2026,00:20,55.2,0,20,no,no,17,4.1
+Offer438,NocheVia,Seville,19.11.2026,23:30,20.11.2026,03:35,61.3,1,20,no,no,30,4.1
+Offer439,NocheVia,Seville,20.11.2026,23:30,21.11.2026,03:40,52.43,1,20,no,no,30,4.0
+Offer440,NocheVia,Seville,21.11.2026,23:00,22.11.2026,02:13,59.56,0,20,no,no,24,4.1
+Offer441,NocheVia,Seville,22.11.2026,22:00,23.11.2026,02:09,50.43,1,20,no,no,4,3.6
+Offer442,NocheVia,Malaga,16.11.2026,22:00,17.11.2026,00:45,63.69,0,20,yes,no,8,3.9
+Offer443,NocheVia,Malaga,17.11.2026,22:30,18.11.2026,01:59,74.29,1,20,yes,yes,30,4.0
+Offer444,NocheVia,Malaga,18.11.2026,22:30,19.11.2026,01:53,52.5,1,20,no,no,12,4.1
+Offer445,NocheVia,Malaga,19.11.2026,23:00,20.11.2026,02:34,58.82,1,20,no,no,2,3.7
+Offer446,NocheVia,Malaga,20.11.2026,22:00,21.11.2026,00:44,58.87,0,20,yes,no,15,3.9
+Offer447,NocheVia,Malaga,21.11.2026,23:30,22.11.2026,02:22,61.46,0,20,no,no,18,3.7
+Offer448,NocheVia,Malaga,22.11.2026,22:00,23.11.2026,01:32,60.35,1,20,no,no,12,3.6
+Offer449,NocheVia,Granada,16.11.2026,21:00,17.11.2026,00:29,45.45,1,20,no,no,9,4.2
+Offer450,NocheVia,Granada,17.11.2026,22:30,18.11.2026,02:03,55.04,1,20,no,no,2,3.6
+Offer451,NocheVia,Granada,18.11.2026,23:30,19.11.2026,03:00,46.2,1,20,no,no,20,4.2
+Offer452,NocheVia,Granada,19.11.2026,23:00,20.11.2026,01:46,60.28,0,20,yes,no,3,4.2
+Offer453,NocheVia,Granada,20.11.2026,22:30,21.11.2026,01:03,50.42,0,20,no,no,6,3.9
+Offer454,NocheVia,Granada,21.11.2026,21:00,22.11.2026,00:32,52.77,1,20,yes,no,14,3.6
+Offer455,NocheVia,Granada,22.11.2026,22:00,23.11.2026,01:24,50.47,1,20,no,no,18,3.6
+Offer456,NocheVia,Cordoba,16.11.2026,21:30,17.11.2026,00:35,51.96,1,20,no,no,7,3.8
+Offer457,NocheVia,Cordoba,17.11.2026,22:30,18.11.2026,01:36,64.01,1,20,yes,yes,0,3.5
+Offer458,NocheVia,Cordoba,18.11.2026,21:30,19.11.2026,00:42,52.59,1,20,no,no,7,3.8
+Offer459,NocheVia,Cordoba,19.11.2026,21:30,20.11.2026,00:33,43.96,1,20,no,no,27,3.5
+Offer460,NocheVia,Cordoba,20.11.2026,21:30,21.11.2026,00:00,53.14,0,20,no,no,10,3.7
+Offer461,NocheVia,Cordoba,21.11.2026,21:30,22.11.2026,00:34,43.39,1,20,no,no,9,4.1
+Offer462,NocheVia,Cordoba,22.11.2026,22:30,23.11.2026,00:56,41.49,0,20,no,no,22,3.6
+Offer463,NocheVia,Bilbao,16.11.2026,23:00,17.11.2026,02:45,67.18,1,20,no,no,10,3.7
+Offer464,NocheVia,Bilbao,17.11.2026,21:30,18.11.2026,01:07,62.72,1,20,yes,no,24,3.7
+Offer465,NocheVia,Bilbao,18.11.2026,23:00,19.11.2026,02:03,62.0,0,20,no,no,1,4.2
+Offer466,NocheVia,Bilbao,19.11.2026,21:30,20.11.2026,01:15,57.44,1,20,yes,no,11,3.5
+Offer467,NocheVia,Bilbao,20.11.2026,22:30,21.11.2026,02:22,60.59,1,20,yes,no,20,3.5
+Offer468,NocheVia,Bilbao,21.11.2026,21:00,22.11.2026,00:12,64.83,0,20,no,no,11,4.0
+Offer469,NocheVia,Bilbao,22.11.2026,21:00,23.11.2026,00:05,58.3,0,20,yes,no,18,4.1
+Offer470,NocheVia,San Sebastian,16.11.2026,22:00,17.11.2026,01:32,64.24,1,20,no,no,15,3.7
+Offer471,NocheVia,San Sebastian,17.11.2026,22:00,18.11.2026,00:43,50.46,0,20,no,no,13,3.6
+Offer472,NocheVia,San Sebastian,18.11.2026,21:00,18.11.2026,23:53,59.52,0,20,no,no,0,3.5
+Offer473,NocheVia,San Sebastian,19.11.2026,22:00,20.11.2026,00:59,60.79,0,20,no,no,8,4.2
+Offer474,NocheVia,San Sebastian,20.11.2026,21:00,21.11.2026,00:35,57.87,1,20,yes,no,14,3.6
+Offer475,NocheVia,San Sebastian,21.11.2026,21:30,22.11.2026,00:14,54.16,0,20,no,no,16,3.5
+Offer476,NocheVia,San Sebastian,22.11.2026,21:00,22.11.2026,23:59,57.35,0,20,no,no,11,3.6
+Offer477,NocheVia,Zaragoza,16.11.2026,21:30,16.11.2026,23:36,60.56,0,20,yes,yes,29,3.9
+Offer478,NocheVia,Zaragoza,17.11.2026,21:30,18.11.2026,00:21,56.13,1,20,yes,no,24,3.5
+Offer479,NocheVia,Zaragoza,18.11.2026,23:00,19.11.2026,02:08,47.23,1,20,no,no,13,3.4
+Offer480,NocheVia,Zaragoza,19.11.2026,21:30,20.11.2026,00:38,46.62,1,20,no,no,7,3.9
+Offer481,NocheVia,Zaragoza,20.11.2026,23:00,21.11.2026,01:50,44.17,1,20,no,no,26,3.6
+Offer482,NocheVia,Zaragoza,21.11.2026,23:30,22.11.2026,02:28,51.38,1,20,yes,no,3,4.0
+Offer483,NocheVia,Zaragoza,22.11.2026,22:00,23.11.2026,00:11,40.31,0,20,no,no,0,3.7
+Offer484,NocheVia,Alicante,16.11.2026,23:00,17.11.2026,02:22,49.56,1,20,no,no,7,3.7
+Offer485,NocheVia,Alicante,17.11.2026,23:00,18.11.2026,01:39,61.06,0,20,no,no,11,3.9
+Offer486,NocheVia,Alicante,18.11.2026,21:30,19.11.2026,00:46,49.53,1,20,no,no,3,3.5
+Offer487,NocheVia,Alicante,19.11.2026,21:00,19.11.2026,23:33,48.0,0,20,no,no,4,3.7
+Offer488,NocheVia,Alicante,20.11.2026,22:30,21.11.2026,01:47,60.39,1,20,no,no,12,3.7
+Offer489,NocheVia,Alicante,21.11.2026,23:00,22.11.2026,01:37,54.24,0,20,no,no,23,4.1
+Offer490,NocheVia,Alicante,22.11.2026,21:30,23.11.2026,00:10,49.15,0,20,no,no,29,3.7
+Offer491,NocheVia,Murcia,16.11.2026,22:00,17.11.2026,00:08,49.84,0,20,no,no,8,3.4
+Offer492,NocheVia,Murcia,17.11.2026,23:30,18.11.2026,02:35,51.79,1,20,no,no,26,4.1
+Offer493,NocheVia,Murcia,18.11.2026,22:30,19.11.2026,00:52,44.57,0,20,no,no,23,3.8
+Offer494,NocheVia,Murcia,19.11.2026,22:30,20.11.2026,00:57,52.32,0,20,no,no,10,3.6
+Offer495,NocheVia,Murcia,20.11.2026,21:30,20.11.2026,23:52,62.05,0,20,yes,no,22,4.0
+Offer496,NocheVia,Murcia,21.11.2026,23:30,22.11.2026,01:51,46.11,0,20,no,no,8,3.4
+Offer497,NocheVia,Murcia,22.11.2026,22:30,23.11.2026,00:52,46.12,0,20,no,no,26,3.8
+Offer498,NocheVia,Salamanca,16.11.2026,22:30,17.11.2026,01:17,48.19,1,20,no,no,11,3.7
+Offer499,NocheVia,Salamanca,17.11.2026,23:00,18.11.2026,00:51,41.35,0,20,no,no,3,4.0
+Offer500,NocheVia,Salamanca,18.11.2026,23:00,19.11.2026,01:40,48.51,1,20,no,no,4,3.7
+Offer501,NocheVia,Salamanca,19.11.2026,23:30,20.11.2026,02:09,47.8,1,20,no,no,28,4.1
+Offer502,NocheVia,Salamanca,20.11.2026,22:30,21.11.2026,00:22,42.92,0,20,no,no,15,3.4
+Offer503,NocheVia,Salamanca,21.11.2026,22:30,22.11.2026,00:31,45.6,0,20,no,no,10,3.5
+Offer504,NocheVia,Salamanca,22.11.2026,23:00,23.11.2026,01:44,48.8,1,20,no,no,4,3.6
+Offer505,NocheVia,Toledo,16.11.2026,22:30,17.11.2026,00:43,39.32,1,20,no,no,17,3.7
+Offer506,NocheVia,Toledo,17.11.2026,22:30,18.11.2026,00:47,38.03,1,20,no,no,22,3.9
+Offer507,NocheVia,Toledo,18.11.2026,22:00,19.11.2026,00:19,37.99,1,20,no,no,12,3.6
+Offer508,NocheVia,Toledo,19.11.2026,22:30,20.11.2026,00:58,37.27,1,20,no,no,22,3.7
+Offer509,NocheVia,Toledo,20.11.2026,21:00,20.11.2026,22:24,45.49,0,20,no,no,25,3.6
+Offer510,NocheVia,Toledo,21.11.2026,22:00,21.11.2026,23:32,37.58,0,20,no,no,10,3.7
+Offer511,NocheVia,Toledo,22.11.2026,23:30,23.11.2026,01:39,42.07,1,20,yes,no,21,3.7
+Offer512,NocheVia,Santiago de Compostela,16.11.2026,23:30,17.11.2026,04:06,54.88,1,20,no,no,18,4.2
+Offer513,NocheVia,Santiago de Compostela,17.11.2026,21:00,18.11.2026,01:34,57.95,1,20,no,no,19,3.4
+Offer514,NocheVia,Santiago de Compostela,18.11.2026,21:00,19.11.2026,00:31,68.45,0,20,yes,no,19,4.1
+Offer515,NocheVia,Santiago de Compostela,19.11.2026,22:00,20.11.2026,02:26,76.38,1,20,yes,no,18,4.0
+Offer516,NocheVia,Santiago de Compostela,20.11.2026,22:00,21.11.2026,01:36,66.62,0,20,yes,no,25,3.9
+Offer517,NocheVia,Santiago de Compostela,21.11.2026,21:00,22.11.2026,00:37,59.31,0,20,no,no,14,4.0
+Offer518,NocheVia,Santiago de Compostela,22.11.2026,23:30,23.11.2026,03:58,74.36,1,20,yes,no,0,4.0
+Offer519,NocheVia,Cadiz,16.11.2026,22:00,17.11.2026,01:08,62.9,0,20,yes,no,12,4.0
+Offer520,NocheVia,Cadiz,17.11.2026,23:30,18.11.2026,02:38,66.02,0,20,no,no,13,3.6
+Offer521,NocheVia,Cadiz,18.11.2026,21:30,19.11.2026,00:38,65.93,0,20,yes,no,17,3.5
+Offer522,NocheVia,Cadiz,19.11.2026,22:00,20.11.2026,01:59,74.97,1,20,yes,no,21,4.0
+Offer523,NocheVia,Cadiz,20.11.2026,23:00,21.11.2026,02:00,69.87,0,20,yes,yes,8,4.1
+Offer524,NocheVia,Cadiz,21.11.2026,21:00,22.11.2026,00:59,57.78,1,20,no,no,23,3.6
+Offer525,NocheVia,Cadiz,22.11.2026,22:30,23.11.2026,02:14,65.72,1,20,no,no,9,4.0
+Offer526,SolRuta,Malaga,12.07.2026,09:00,12.07.2026,17:00,-5,0,15,no,no,10,4.0
+Offer527,CostaLink,Paris,12.07.2026,09:00,12.07.2026,17:00,40,0,15,no,no,10,4.0
+Offer528,VerdeBus,Malaga,45.13.2026,09:00,12.07.2026,17:00,40,0,15,no,no,10,4.0
+Offer529,Camino Express,Malaga,12.07.2026,18:00,12.07.2026,09:00,40,0,15,no,no,10,4.0
